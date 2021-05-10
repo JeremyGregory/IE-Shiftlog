@@ -1,2 +1,2 @@
-# IE-Shiftlog
-Log Pekerjaan Whitelist Seperti Ems Atau Polisi 
+# JG-Shiftlog
+Log Absent (Police,Ems)
